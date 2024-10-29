@@ -151,7 +151,7 @@ $conn->close();
 
 
 <!-- footer -->
-<?= include "footer.php"?>
+<?php include "footer.php"?>
 <!-- /footer -->
 
 <!-- jQuery -->
